@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235639758495",
+    "project_id": "fast-toon-50cd9",
+    "storage_bucket": "fast-toon-50cd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235639758495:android:f11ebd1aec3a0bb58e0caa",
+        "android_client_info": {
+          "package_name": "com.example.fast_toon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xIhZZcu9JcgJXVgU0HOnjRtf_0K_bec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
